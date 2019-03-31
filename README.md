@@ -12,3 +12,8 @@ public interface Queue[T] {
     public T head();
     public boolean isEmpty();
 }
+    
+Implementation details:
+package util.immutable;
+ ImmuteQueue.java (Interface)
+ ImmutableQueue.java (Class)
